@@ -19,11 +19,15 @@ export const userConfig: Partial<UserConfig> = {
         href: '/archive',
       },
       {
+        name: 'Categories',
+        href: '/categories',
+      },
+      {
         name: 'About',
         href: '/about',
       },
     ],
-    categoryMap: [],
+    categoryMap: [{ name: '默认', path: 'default' }],
     footer: [],
   },
   appearance: {
