@@ -28,7 +28,9 @@ export const userConfig: Partial<UserConfig> = {
       },
     ],
     categoryMap: [],
-    footer: [],
+    footer: [
+      '<a href="https://github.com/monbed/Tinkering-NotesX/" target="_blank">Github</a>',
+    ],
   },
   appearance: {
     theme: 'system',
