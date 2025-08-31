@@ -1,6 +1,10 @@
 ---
 title: 关于
-pubDate: 2024-12-06
+pubDate: 2025-08-31
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+个人折腾的一些记录。
+
+#### 鸣谢
+基于 [Astro](https://astro.build/) 构建，主题「活版印字」由 [Moeyua](https://github.com/moeyua/astro-theme-typography) 提供  
+Build with [Astro](https://astro.build/),Theme Typography by [Moeyua](https://github.com/moeyua/astro-theme-typography)  
