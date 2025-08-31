@@ -27,7 +27,7 @@ export const userConfig: Partial<UserConfig> = {
         href: '/about',
       },
     ],
-    categoryMap: [{ name: '默认', path: 'default' }],
+    categoryMap: [],
     footer: [],
   },
   appearance: {
