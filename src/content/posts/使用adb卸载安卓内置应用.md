@@ -1,7 +1,7 @@
 ---
 title: 使用adb卸载安卓内置应用
 pubDate: 2025-08-31
-categories: ['']
+categories: ['折腾']
 description: ''
 ---
 

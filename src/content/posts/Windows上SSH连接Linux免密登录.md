@@ -1,7 +1,7 @@
 ---
 title: Windows上SSH连接Linux免密登录
 pubDate: 2025-08-31
-categories: ['']
+categories: ['折腾']
 description: ''
 ---
 

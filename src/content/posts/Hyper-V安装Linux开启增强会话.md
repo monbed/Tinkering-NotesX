@@ -1,7 +1,7 @@
 ---
 title: Hyper-V安装Linux开启增强会话
 pubDate: 2025-08-31
-categories: ['']
+categories: ['折腾']
 description: ''
 ---
 

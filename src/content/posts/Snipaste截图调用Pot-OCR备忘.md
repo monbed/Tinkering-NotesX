@@ -1,7 +1,7 @@
 ---
 title: Snipaste截图调用Pot-OCR备忘
 pubDate: 2025-08-31
-categories: ['']
+categories: ['折腾']
 description: ''
 ---
 
