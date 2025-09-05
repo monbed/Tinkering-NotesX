@@ -5,7 +5,7 @@ categories: ['折腾']
 description: ''
 ---
 
-```
+```bat
 @echo off
 set curdir=%~dp0
 set SystemDrive_xn=c:

@@ -5,7 +5,7 @@ categories: ['折腾']
 description: ''
 ---
 
-```
+```yaml
 mode: rule
 ipv6: true
 log-level: info
